@@ -1,6 +1,7 @@
 h1{font-size: 35px;}
 h2 {color: brown; font-family: Arial;}
 p {align-text: center;}
+my title {color: Orange; font-family: Helvetica; background-color: yellow; }
 img {width: 400px; height: 400px; margin:80px;}
 body {background-color: beige;}
 img.logos {width:200px; height:200px; background-color: white;}
