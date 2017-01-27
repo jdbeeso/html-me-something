@@ -3,7 +3,7 @@ h2 {color: brown; font-family: Arial;}
 p {align-text: center;}
 my title {color: Orange; font-family: Helvetica; background-color: yellow; }
 img {width: 400px; height: 400px; margin:80px;}
-body {background-color: beige;}
+body {background-color: beige; margin: 100px; padding: 50px;}
 img.logos {width:200px; height:200px; background-color: white;}
 button {color: green; background-color: light green; font-family: Courier}
 img.display {display: block; margin-left: auto; margin-right: auto; }
